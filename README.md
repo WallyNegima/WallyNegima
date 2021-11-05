@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[とりせつ](https://github.com/WallyNegima/WallyNegima/tree/main/torisetsu)
+
 <!--
 **WallyNegima/WallyNegima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
